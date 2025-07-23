@@ -161,10 +161,10 @@ flutter run
 [ ] Phase 5: Beta Testing & Deployment
 
 👤 Author
-[Your Name]
+Rishikesh Kanikudiyil Joshy
 
-LinkedIn: [Your LinkedIn Profile URL]
+LinkedIn: www.linkedin.com/in/rishikesh-kanikudiyil-ftw
 
-GitHub: @your-username
+GitHub: rishikeshjoshy
 
 This project is being built in public. Follow the journey for updates!
