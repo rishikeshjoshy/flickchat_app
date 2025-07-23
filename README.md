@@ -11,6 +11,7 @@ FlickChat ⚡
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
+<p align="center">
 🚀 Introduction
 FlickChat is more than just a messaging app. It's an experiment in building more empathetic and intuitive digital communication. In a world of text, we lose the crucial non-verbal cues that define human connection. FlickChat aims to bring them back through innovative features, creating a richer, more conscious messaging experience.
 
@@ -140,7 +141,7 @@ flutter pub get
 Run the App:
 
 flutter run
-
+</p>
 🗺️ Project Roadmap
 [x] Phase 1: Backend & Security Architecture
 
