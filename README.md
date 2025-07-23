@@ -19,7 +19,7 @@ This repository documents every step of the development journey, from early prot
 
 🎨 UI & Design
 Modern, dark-mode interface built to feel natural and immersive. Designed fully in Figma for flexibility and precision.
-<p align="center"><img src="https://raw.githubusercontent.com/your-username/flickchat-app/main/assets/design-showcase.png" alt="FlickChat UI Design Showcase" width="800"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/rishikeshjoshy/flickchat-app/main/assets/design-showcase.png" alt="FlickChat UI Design Showcase" width="800"/></p>
 
 🛠️ Tech Stack
 Client-Side
